@@ -11,6 +11,16 @@ I help businesses find where AI saves real time, then build the automations, age
 - 🤖 **AI agents and integrations**: custom agents, MCP servers and tools built on Claude
 - 🖥️ **Apps and websites**: built with TypeScript, Next.js and Vue
 
+### ⭐ Built by us: [Asqu](https://asqu.dev)
+
+**Version control that nobody has to manage.** Asqu saves every change with the reason behind it, so you can undo or go back to any point in plain words. Works with any AI, or none.
+
+```bash
+brew install iDevEngineer/asqu/asqu
+```
+
+[asqu.dev](https://asqu.dev)
+
 ### AI tools we use
 
 <p align="left">
@@ -33,9 +43,10 @@ I help businesses find where AI saves real time, then build the automations, age
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,vue,nuxtjs,svelte,tailwind,php,mysql,mongodb,docker,aws,gcp,cloudflare,linux,git,figma,threejs&perline=10" alt="TypeScript, JavaScript, Next.js, Node.js, Vue, Nuxt, Svelte, Tailwind CSS, PHP, MySQL, MongoDB, Docker, AWS, Google Cloud, Cloudflare, Linux, Git, Figma, Three.js" />
 </p>
 
-Design systems and motion, including our own [Synced Flow](https://docs.syncedflow.dev) and [Synced Motion](https://syncedco.github.io/synced-motion/):
+Our own tools, [Asqu](https://asqu.dev), [Synced Flow](https://docs.syncedflow.dev) and [Synced Motion](https://syncedco.github.io/synced-motion/), plus the animation libraries we use:
 
 <p align="left">
+  <a href="https://asqu.dev" target="_blank" rel="noreferrer"><img src="assets/stack/asqu.svg" width="48" height="48" alt="Asqu" title="Asqu" /></a>&nbsp;
   <a href="https://docs.syncedflow.dev" target="_blank" rel="noreferrer"><img src="assets/stack/synced-flow.svg" width="48" height="48" alt="Synced Flow" title="Synced Flow" /></a>&nbsp;
   <a href="https://syncedco.github.io/synced-motion/" target="_blank" rel="noreferrer"><img src="assets/stack/synced-motion.svg" width="48" height="48" alt="Synced Motion" title="Synced Motion" /></a>&nbsp;
   <a href="https://motion.dev" target="_blank" rel="noreferrer"><img src="assets/stack/motion.svg" width="48" height="48" alt="Motion" title="Motion" /></a>&nbsp;
